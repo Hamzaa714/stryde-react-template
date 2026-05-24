@@ -1,16 +1,31 @@
-# React + Vite
+# Stryde — React Shoe Ecommerce Template
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Modern ecommerce frontend template built with React and Tailwind CSS for sneaker and fashion brands.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+https://e-commerce-ten-rho-20.vercel.app/
 
-## React Compiler
+## Buy Full Template
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+https://hamzaflare175.gumroad.com/l/stryde-react-template
+## Features
 
-## Expanding the ESLint configuration
+- Modern ecommerce UI
+- Responsive design
+- Product pages
+- Cart UI
+- Mobile optimized
+- Tailwind CSS
+- Clean reusable components
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack
+
+- React
+- Tailwind CSS
+- JavaScript
+
+## License
+
+This repository is for showcase purposes only.
+Source code is available for purchase.
